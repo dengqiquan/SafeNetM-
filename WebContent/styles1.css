@@ -1,0 +1,29 @@
+html, body, div
+{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+object
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+}
+html {
+  font:  arial, helvetica, sans-serif;
+}
+.footer-bar {
+  position: absolute;
+  bottom: 0;
+  height: 35px;
+  width: 100%;
+  border-top: 1px solid #ebebeb;
+  overflow: hidden;
+ }
+ .footer {
+  color: #999;
+  text-align:center;
+  max-width: 80%;
+  }
